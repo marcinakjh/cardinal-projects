@@ -2,5 +2,4 @@
 # To run the code, download the .csv files listed: 
 # NBA_season1718_salary.csv
 # Seasons_Stats.csv.zip
-# nba_salary1718.R
 # player_data.csv
